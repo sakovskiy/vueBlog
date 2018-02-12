@@ -1,4 +1,4 @@
-# vuewebpack.local
+# vueBlog
 
 > A Vue.js project
 
